@@ -1,0 +1,136 @@
+#MainLogo{
+  max-height:6%;
+  max-width :3%;
+  transform: translate(70%,70%);
+}
+
+#LoginHead{
+  font-size: 30px;
+  font-weight: 700px;
+  color:#282a35;
+}
+
+#signupButton{
+  color:#04aa6d;
+  text-decoration: none;
+}
+
+.FP{
+  text-align: center;
+
+}
+
+
+#ForgotPassword{
+  text-decoration: none;
+  color:#282a35;
+  font-family: Source Sans Pro;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+#ForgotPassword:hover{
+  color:#198754;
+}
+
+.Linktosignup{
+    text-align: right;
+}
+.Login{
+  border: 1px solid #e3e3e3;
+  border-radius: 16px;
+  position: absolute;
+  padding: 0 0 0 20px;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  font-weight: 600px;
+}
+
+footer{
+    bottom: 0;
+    box-sizing: border-box;
+    color: rgba(40,42,53,.65);
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    left: 0;
+    line-height: 19px;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    width: 100%
+}
+
+#SP{
+  color: #282a35;
+  background-color: transparent;
+  border: none;
+    cursor: pointer;
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+footer > ul.container{
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	column-gap: 0.5em;
+	color: rgba(40,42,53,.65);
+  flex-wrap: wrap;
+	list-style: none;
+}
+
+.footer_link{
+  color:rgba(40,42,53,.65);
+}
+
+label{
+  display: block;
+display: inline-block;
+font-family: Source Sans Pro;
+font-size: 16px;
+font-weight: 600;
+
+}
+
+.THERIGHT{
+  float:right;
+
+}
+input.writein{
+  width: 400px;
+  height: 50px;
+
+  border-radius: 8px;
+}
+
+footer{
+  bottom:0;
+  color:rgba(40,42,53,.65);
+}
+
+
+.Button1{
+  width: 400px;
+  height: 50px;
+  top:50%;
+  left:50%;
+  border: none;
+  background-color: #04aa6d;
+  border-radius: 18px;
+  color: #ffffff;
+  font-family: Source Sans Pro,sans-serif;
+  font-size: 18px;
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.Button1:hover{
+  background-color: #024b30;
+}
